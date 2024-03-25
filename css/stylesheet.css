@@ -39,3 +39,7 @@ visibility: visible;
     font-size: 1.15rem;
     color: #333333;
  }
+
+.title {
+    font-size: 20rem;
+}
